@@ -1,5 +1,6 @@
 # Object file
 *.o
+*temp
 
 #Build folder
 build/*
